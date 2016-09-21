@@ -80,7 +80,10 @@ python test.py
  
 ![](http://image.3001.net/images/20160907/14732283689846.png)
 
-`pip install bitstring`
+<pre>
+pip install bitstring`
+</pre>
+
 <pre>
 python
 import bitstring
