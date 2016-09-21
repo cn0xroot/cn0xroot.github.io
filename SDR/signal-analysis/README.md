@@ -45,7 +45,8 @@ sudo port install hackrf
 
 ##3.1 安装inspectrum
 
-在这篇文章中我们将通过inspectrum(https://github.com/miek/inspectrum)这个工具来分析信号，配合Python将信号转成二进制数据。
+在这篇文章中我们将通过[inspectrum](https://github.com/miek/inspectrum)
+这个工具来分析信号，配合Python将信号转成二进制数据。
 <pre> 
 sudo port install fftw-3-single cmake pkgconfig qt5
 git clone https://github.com/miek/inspectrum.git
