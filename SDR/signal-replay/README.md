@@ -1,6 +1,6 @@
-#Wireless Hacking With SDR
+#Wireless Hacking With SDR And GnuRadio
 
-###0x01 捕获信号
+###0x01 信号捕获
 市面上常见的无线遥控工作的频段，通常工作在315Mhz、433Mhz，也有少数的会采用868Mhz.915Mhz这几个频点。
 我们可以用电视棒、HackRF、BladeRF等SDR硬件来确定遥控的工作频率：
 打开软件按下遥控器后，能在瀑布图上看到明显的反应：
@@ -58,7 +58,7 @@ bingo!
 ![](http://image.3001.net/images/20160907/14732280661074.png)
 
 信号分析&转码细节参考：
-![如何使用SDR+inspectrum逆向分析无线遥控信号http://www.freebuf.com/articles/wireless/111801.html](http://www.freebuf.com/articles/wireless/111801.html)
+[如何使用SDR+inspectrum逆向分析无线遥控信号](https://github.com/cn0xroot/cn0xroot.github.io/tree/master/SDR/signal-analysis)
 一文。
 
 ![](http://image.3001.net/images/20160907/1473228141351.png)
@@ -71,8 +71,9 @@ for i in a:
 		s +='1'
 	else:
 		s +='0'
+print s		
 		</pre>
-`python sex.py 
+`python test.py 
  11011010011011010010011010010010011010011011010011010011010010011010011001`		
 ![](http://image.3001.net/images/20160907/14732283689846.png)
 
@@ -119,4 +120,5 @@ windows 7如果不是Service Pack 1 则需下载安装Windows 7 和 Windows Serv
 
 [TI EZ430 Chronos watch, quick guide / tutorial to hacking the firmware  https://www.youtube.com/watch?v=20dVNyJ8fYw&feature=youtu.be](TI EZ430 Chronos watch, quick guide / tutorial to hacking the firmware  https://www.youtube.com/watch?v=20dVNyJ8fYw&feature=youtu.be)
 
+###Author:[雪碧0xroot](http://www.0xroot.cn) [Blog](http://www.spriteking.com)
 
