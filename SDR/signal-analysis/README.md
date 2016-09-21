@@ -137,7 +137,7 @@ print s
 
 通过上述方式，我们已对SDR捕获到的无线信号进行分析，并把信号文件转换成了二进制数据，接下来可使用GnuRadio对数据进行重放、修改测试，或者使用RFcat+Python实现廉价的重放Hacking。
 
-IMG_1014_1024x1024.JPG         
+![](http://image.3001.net/images/20160812/14709993654189.jpg)        
 
 #0×05 refer
 
