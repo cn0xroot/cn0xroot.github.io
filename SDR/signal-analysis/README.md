@@ -9,6 +9,7 @@
 #0×01 环境搭建
 
 Mac可使用port(/www.macports.org) 或者brew(brew.sh)安装GnuRadio依赖套件:
+
  <pre> 
 sudo port install gnuradio 
 sudo port install hackrf
