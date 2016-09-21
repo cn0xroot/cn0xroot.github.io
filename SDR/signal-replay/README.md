@@ -75,7 +75,7 @@ print s
 		</pre>
 `python test.py 
  11011010011011010010011010010010011010011011010011010011010010011010011001`		
-![](http://image.3001.net/images/20160907/14732283689846.png)
+[](http://image.3001.net/images/20160907/14732283689846.png)
 
 `pip install bitstring`
 <pre>
