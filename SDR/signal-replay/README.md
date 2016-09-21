@@ -116,6 +116,9 @@ windows 7如果不是Service Pack 1 则需下载安装Windows 7 和 Windows Serv
 ![](http://image.3001.net/images/20160907/14732320781614.png)
 
 ### 0x06 refer
+
+[Michael Ossmann: Software Defined Radio with HackRF, Lesson 11: Replay YouTuBe  ](https://www.youtube.com/watch?v=CyYteFiIozM)
+
 [TI eZ430-Chronos Hacking quickstart http://timgray.blogspot.jp/2012/12/ti-ez430-chronos-hacking-quickstart.html](TI eZ430-Chronos Hacking quickstart http://timgray.blogspot.jp/2012/12/ti-ez430-chronos-hacking-quickstart.html)
 
 
