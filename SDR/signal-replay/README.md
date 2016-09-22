@@ -4,7 +4,7 @@
 市面上常见的无线遥控工作的频段，通常工作在315Mhz、433Mhz，也有少数的会采用868Mhz.915Mhz这几个频点。
 我们可以用电视棒、HackRF、BladeRF等SDR硬件来确定遥控的工作频率：
 打开软件按下遥控器后，能在瀑布图上看到明显的反应：
-`osmocom_fft -F -f 443e6 -s 4e6`
+`osmocom_fft -F -f 433e6 -s 4e6`
 
 ![](http://image.3001.net/images/20160906/14731396517189.png)
 
