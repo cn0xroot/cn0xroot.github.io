@@ -86,7 +86,7 @@ gr-nordic/example$./nordic_sniffer_scanner.py
 ###0x06 演示视频
 [Video:v.qq.com](http://v.qq.com/x/page/x0322x7vcm4.html)
 
-[Viceo:YouTuBe](https://www.youtube.com/watch?v=EsZNfhmIu64&feature=youtu.be)
+[Video:YouTuBe](https://www.youtube.com/watch?v=EsZNfhmIu64&feature=youtu.be)
 
 
 ### 0x07 Thanks & Refer
