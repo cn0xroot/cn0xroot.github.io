@@ -64,11 +64,15 @@ getcap /usr/bin/dumpcap
 <pre>
 /usr/bin/dumpcap = cap_net_admin,cap_net_raw+eip 
 </pre>
-![](http://image.3001.net/images/20160927/14749447459478.png!small)
+
+![](http://image.3001.net/images/20160927/14749447459478.png)
+
 即为设置生效。注销登录状态或者重启系统启用配置。
 
 ###0x05 数据包捕获
-![](http://image.3001.net/images/20160927/14749450226613.png!small)
+
+![](http://image.3001.net/images/20160927/14749450226613.png)
+
 gr-nordic项目中include里边包含了nordic的tx、rx、API头文件，lib文件夹则是该项目依赖的一些库文件，example文件包含了Microsoft鼠标以及扫描、嗅探使用Nordic北欧芯片键鼠的利用脚本，wireshark文件夹中则是对扫描、嗅探到的数据包进行分析所需的lua脚本。
 <pre>
 gr-nordic$ wireshark -X lua_script:wireshark/nordic_dissector.lua -i lo -k -f udp
@@ -78,7 +82,7 @@ gr-nordic$cd example
 gr-nordic/example$./nordic_sniffer_scanner.py
 </pre>
 
-![](http://image.3001.net/images/20160926/14748794773330.png!small)
+![](http://image.3001.net/images/20160926/14748794773330.png)
 ###0x06 演示视频
 [Video:v.qq.com](http://v.qq.com/x/page/x0322x7vcm4.html)
 
