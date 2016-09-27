@@ -98,7 +98,7 @@ gr-nordic/example$./nordic_sniffer_scanner.py
 
 [Bastille 巴士底狱](https://twitter.com/bastillenet)安全研究员：[Marc Newlin](https://twitter.com/marcnewlin)
 、[Balint Seeber](https://twitter.com/spenchdotnet)
-####Author：雪碧0xroot@[vulbox](https://www.vulbox.com/)
+####Author：[雪碧0xroot](http://www.0xroot.cn) @[漏洞盒子安全团队 VULBOX Security Team](https://www.vulbox.com/)  
 
 
 
