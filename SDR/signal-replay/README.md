@@ -19,6 +19,11 @@ SDR软件通常支持录制信号，可将遥控的信号保存为wav音频文�
 
 这里用gnuradio-companion流图来实现信号录制以及信号重放。
 
+<pre>
+wget http://www.0xroot.cn/SDR/signal-record.grc
+gnuradio-companion signal-record.grc
+</pre>
+
 ![](http://image.3001.net/images/20160906/14731408275359.png)
 
 左侧osmocom Source模块调用SDR硬件，我们设置其中心频率为433.874MHz，采样率为2M:
@@ -43,6 +48,11 @@ SDR软件通常支持录制信号，可将遥控的信号保存为wav音频文�
 
 ###0x03 信号重放
 接下来再用gnuradio-companion写个信号重放的流图：
+
+<pre>
+wget http://www.0xroot.cn/SDR/signal-replay.grc
+gnuradio-companion signal-replay.grc
+</pre>
 
 ![](http://image.3001.net/images/20160906/14731422579853.png)
 
@@ -81,7 +91,7 @@ python test.py
 ![](http://image.3001.net/images/20160907/14732283689846.png)
 
 <pre>
-pip install bitstring`
+pip install bitstring
 </pre>
 
 <pre>
@@ -91,7 +101,11 @@ import bitstring
 bitstring.BitArray(bin='11011010011011010010011010010010011010011011010011010011010010011010011001').tobytes()
 </pre>		
 
-'\xdam&\x92i\xb4\xd3I\xa6@'
+
+<pre>
+formatted hexcode
+\x36\x9b\x49\xa4\x9a\x6d\x34\xd2\x69\x9
+</pre>
 
 ### 0x05 Hacking The world with watch
 德州仪器生产的EZ430 Chronos手表由于采用了MSP430芯片，该芯片支持发射1GHz以下频率的无线信号,覆盖市面上各种常见的无线遥控频率（315MHz、433MHz、868MHz、915MHz）:
