@@ -143,5 +143,5 @@ windows 7如果不是Service Pack 1 则需下载安装Windows 7 和 Windows Serv
 
 [TI EZ430 Chronos watch, quick guide / tutorial to hacking the firmware  https://www.youtube.com/watch?v=20dVNyJ8fYw&feature=youtu.be](TI EZ430 Chronos watch, quick guide / tutorial to hacking the firmware  https://www.youtube.com/watch?v=20dVNyJ8fYw&feature=youtu.be)
 
-###Author:[雪碧0xroot](http://www.0xroot.cn) [Blog](http://www.spriteking.com)
+###Author:[雪碧0xroot](http://www.0xroot.cn) @[漏洞盒子安全团队 VULBOX Security Team](https://www.vulbox.com/)  
 
