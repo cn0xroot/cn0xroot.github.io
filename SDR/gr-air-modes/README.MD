@@ -150,9 +150,9 @@ Image.png](http://image.3001.net/images/20161115/14791912477419.png!small)
 World](https://www.ettus.com/product/details/UB200-KIT)
 
 [Aircraft Tracking with Mode S: Modez & Aviation
-Mapper](http://spench.net/drupal/research/mode-s)\
+Mapper](http://spench.net/drupal/research/mode-s)
 
 <https://media.blackhat.com/bh-us-12/Briefings/Costin/BH_US_12_Costin_Ghosts_In_Air_WP.pdf>
 
-<https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio>\
+<https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio>
 
