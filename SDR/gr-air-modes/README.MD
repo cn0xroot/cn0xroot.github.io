@@ -13,6 +13,7 @@ Author:[雪碧0xroot](http://www.spriteking.com)@漏洞盒子安全团队 </spa
 很大一部分玩过电视棒的小伙伴都使用过电视棒+dump1090的方案实现过追踪飞机飞行轨迹这一功能。之所以能够很容易的跟踪飞机,是因为航空CNS(通信导航监视)系统里大量采用非常古老的无线标准。
 
 ![dump1090](http://image.3001.net/images/20161115/1479189205495.png!small)
+
 （电视棒+dump1090 2D）
 
 ![Clipboard
